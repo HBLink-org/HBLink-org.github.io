@@ -1,6 +1,8 @@
+---
 layout: page
 title: "HBLink Tools"
 permalink: /tools/
+---
 
 # Available Tools
 
