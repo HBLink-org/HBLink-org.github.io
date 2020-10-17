@@ -3,7 +3,6 @@ layout: page
 title: "HBLink Tools"
 permalink: /tools/
 ---
-
 # Available Tools
 
 The project currently manages five tools between two Python versions:
