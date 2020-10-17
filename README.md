@@ -26,4 +26,6 @@ The project currently manages five tools between two Python versions:
 
 ## Contact
 
+If you are interested in being part of the community that is supporting and developing this software, you can join us on the [Groups.io](https://dvswitch.groups.io/g/HBlink) forum, a subforum of the DVSwitch set of tools for cross-mode communication for amateur radio.
+
 More information will be available here in the future. If you need more information or to contact a human that is connected with the project, you can reach Randy Hall at `aa6rh at socorad dot io`
