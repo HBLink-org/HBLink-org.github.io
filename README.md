@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# HBLink.org
 
-You can use the [editor on GitHub](https://github.com/HBLink-org/HBLink-org.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the home of HBLink: HomeBrew repeater protocol networking tools
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description
 
-### Markdown
+HBlink provides a suite of programs for building and extending existing networks that use the Home-brew Repeater Protocol and OpenBridge protocols. These protocols are most commonly associated with MMDVM and the Brandmeister and DMR+ networks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The hblink3 repository is where current development is taking place, and is the Python 3 version of this project.
 
-```markdown
-Syntax highlighted code block
+HBlink is _not_ a "plug and play" program to build DMR networks. It is a collection of programs built on top of a common protocol stack contained in hblink.py.
 
-# Header 1
-## Header 2
-### Header 3
+These are Python 3 applications. To use them, you will need some pre-requisite knowledge of how Python applications and modules work together, and you'll need basic skills using a command line interface in unix-like operating systems.
 
-- Bulleted
-- List
+## Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HBLink-org/HBLink-org.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+More information will be available here in the future. If you need more information or to contact a human that is connected with the project, you can reach Randy Hall at `aa6rh at socorad dot io`
